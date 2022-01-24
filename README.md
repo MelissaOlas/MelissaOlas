@@ -1,6 +1,7 @@
 ### Hello World ! 👋 My name is Melissa ✨
 
-https://github.com/MelissaOlas/MelissaOlas/blob/a6e664e691e3534ebd1e847f5749866f674c7c82/assets/dino.gif
+![dino](https://user-images.githubusercontent.com/83476211/150872409-7f94d6d1-0353-41a9-86ce-55d5901c4cca.gif)
+
 
 I study Web Developpment at Wild Code School Paris 👩🏻‍💻
 
