@@ -12,7 +12,7 @@ I study Web Developpment at Wild Code School Paris 👩🏻‍💻
 
 📫
 
-<a href="https://www.linkedin.com/in/melissa-olas/"><img src="![linkedin-logo](https://user-images.githubusercontent.com/83476211/150873492-1172b1a8-749e-4a16-89d0-0c919fe534ed.png)
+<a href="https://www.linkedin.com/in/melissa-olas/"><img src="https://user-images.githubusercontent.com/83476211/150873492-1172b1a8-749e-4a16-89d0-0c919fe534ed.png
 "/></a>
 
 ![img](https://user-images.githubusercontent.com/83476211/150872549-9f2770f1-9f42-4b28-a936-b64e9cb7fd3d.jpeg)
