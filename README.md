@@ -3,7 +3,8 @@
 ![dino](https://user-images.githubusercontent.com/83476211/150872409-7f94d6d1-0353-41a9-86ce-55d5901c4cca.gif)
 
 
-I study Web Developpment at Wild Code School Paris 👩🏻‍💻
+Web Developper in the making :rocket:
+Wild Code School Paris alumni 👩🏻‍💻
 
 👀 Currently intern @Sewan </br>
 🌱 Working on frontend and backend projects using HTML, CSS, JavaScript with React Nodejs (Express), SQL </br>
