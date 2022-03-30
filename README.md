@@ -3,7 +3,7 @@
 ![dino](https://user-images.githubusercontent.com/83476211/150872409-7f94d6d1-0353-41a9-86ce-55d5901c4cca.gif)
 
 
-:rocket: Web Developper in the making </br>
+:rocket: Web Developer in the making </br>
 👩🏻‍💻 Wild Code School Paris alumni 
 
 👀 Currently intern @Sewan </br>
