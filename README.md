@@ -6,7 +6,7 @@
 :rocket: Web Developer in the making </br>
 👩🏻‍💻 Wild Code School Paris alumni 
 
-👀 Currently intern @Sewan </br>
+👀 Currently looking for an apprenticeship </br>
 🌱 Working on frontend and backend projects using HTML, CSS, JavaScript with React Nodejs (Express), SQL </br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CA5E36&size=23&lines=Web+developer+in+training;Wild+Code+School+student)](https://git.io/typing-svg)
